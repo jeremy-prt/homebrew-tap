@@ -4,7 +4,7 @@ cask "brume" do
 
   url "https://github.com/jeremy-prt/brume/releases/download/v#{version}/Brume.dmg"
   name "Brume"
-  desc "Simple, beautiful terminal built on the Ghostty engine"
+  desc "Terminal, reimagined"
   homepage "https://github.com/jeremy-prt/brume"
 
   auto_updates true
