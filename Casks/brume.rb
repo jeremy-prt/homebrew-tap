@@ -5,7 +5,7 @@ cask "brume" do
   url "https://github.com/jeremy-prt/brume/releases/download/v#{version}/Brume.dmg"
   name "Brume"
   desc "Terminal, reimagined"
-  homepage "https://github.com/jeremy-prt/brume"
+  homepage "https://brume-terminal.vercel.app/"
 
   auto_updates true
   depends_on arch: :arm64
